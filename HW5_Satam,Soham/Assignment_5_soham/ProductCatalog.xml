@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProductCatalog>
+
+<PhoneCatalog>
+    <phone id="iphone11pro">
+        <name>iPhone 11 pro 64GB Space Gray</name>
+        <price>1500</price>
+        <image>iphone11pro.JPG</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>0.0</discount>
+		<accessories>
+            <accessory>appleAdapter</accessory>
+            <accessory>applePowerCord</accessory>
+			<accessory>appleAirPods</accessory>
+        </accessories>
+    </phone>
+	<phone id="galaxyS20">
+        <name>Samsung Galaxy S20 128GB Aura Blue</name>
+        <price>999.99</price>
+        <image>galaxyS20.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>s20backcover</accessory>
+        </accessories>
+
+    </phone>
+	<phone id="motoG">
+        <name>Motorola Moto G 64GB</name>
+        <price>199.99</price>
+        <image>motoG.jpg</image>
+        <manufacturer>Motorola</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>motoGcover</accessory>
+        </accessories>		
+    </phone>
+	<phone id="oneplus7pro">
+        <name>OnePLus 7 Pro 256GB</name>
+        <price>299.99</price>
+        <image>oneplus7pro.jpg</image>
+        <manufacturer>OnePlus</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>onePlusEarBuds</accessory>
+            <accessory>onePlusDash</accessory>
+        </accessories>
+    </phone>
+	<phone id="nokia71">
+        <name>Nokia 7.1 Android 9.0 Pie 64GB</name>
+        <price>2090.00</price>
+        <image>nokia71.jpg</image>
+        <manufacturer>Nokia</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>nokiaCover</accessory>
+        </accessories>
+    </phone>
+    <phone id="samGalNote10">
+        <name>Samsung Galaxy Note10</name>
+        <price>999.00</price>
+        <image>samGalNote10.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </phone>
+</PhoneCatalog>
+
+<TelivisionCatalog>
+    <telivision id="samsung65Inch">
+        <name>Samsung 65" 4K UHD Smart TV</name>
+        <price>1999.99</price>
+        <image>samsung64inch.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <rebate>35.0</rebate>
+    </telivision>
+    <telivision id="sony55inch">
+        <name>Sony 55" 4K UHD Smart Android TV</name>
+        <price>599.99</price>
+        <image>sonyLed55inch.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <rebate>35.0</rebate>
+    </telivision>
+	<telivision id="LG55inch">
+        <name>LG 43" 4K UHD Smart TV</name>
+        <price>379.99</price>
+        <image>LG55inch.jpg</image>
+        <manufacturer>LG</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <rebate>45.0</rebate>
+    </telivision>
+	<telivision id="sony65inch">
+        <name>Sony 65" OLED 4K UHD Smart TV</name>
+        <price>2999.99</price>
+        <image>sony65inchOLED.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <rebate>25.0</rebate>
+    </telivision>
+	<telivision id="LG65inch">
+        <name>LG 65" LED 4K Smart webOS TV</name>
+        <price>499.99</price>
+        <image>LG65inch.jpg</image>
+        <manufacturer>LG</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <rebate>55.0</rebate>
+    </telivision>
+</TelivisionCatalog>
+
+<LaptopCatalog>
+    <laptop id="macBookPro">
+        <name>MacBook Pro 13 inch</name>
+        <price>1299.99</price>
+        <image>macBookPro.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </laptop>
+    <laptop id="dellXPS">
+        <name>Dell XPS 15 inch</name>
+        <price>999.99</price>
+        <image>dellXPS.jpg</image>
+        <manufacturer>Dell</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </laptop>
+	<laptop id="hpSpectre">
+        <name>HP 14" Touch Screen Laptop</name>
+        <price>999.99</price>
+        <image>hpSpectre.jpg</image>
+        <manufacturer>HP</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </laptop>
+	<laptop id="notebook9pro">
+        <name>Samsung Notebook 9 pro 15 inch</name>
+        <price>1399.99</price>
+        <image>notebook9pro.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </laptop>
+	<laptop id="thinkPad">
+        <name>Lenovo ThinkPad</name>
+        <price>899.99</price>
+        <image>thinkPad.jpg</image>
+        <manufacturer>Lenovo</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </laptop>
+</LaptopCatalog>
+
+<SoundSystemCatalog>
+    <soundSystem id="sonySound">
+        <name>Sony Complete Speaker System</name>
+        <price>1089.99</price>
+        <image>sonySound.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>50.0</discount>
+    </soundSystem>
+	<soundSystem id="jblSound300W">
+        <name>JBL 2.1 Channel 300W Soundbar System</name>
+        <price>299.99</price>
+        <image>jblSound300W.jpg</image>
+        <manufacturer>JBL</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </soundSystem>
+	<soundSystem id="boseLifestyle650">
+        <name>Bose Lifestyle 650 Home Entertainment System</name>
+        <price>3999.99</price>
+        <image>boseLifestyle650.jpg</image>
+        <manufacturer>Bose</manufacturer>
+        <condition>New</condition>
+        <discount>80.0</discount>
+    </soundSystem>
+	<soundSystem id="boseHomeTheater">
+        <name>Bose Wireless Sound Speakers for Home Theater</name>
+        <price>299.99</price>
+        <image>boseHomeTheater.jpg</image>
+        <manufacturer>Bose</manufacturer>
+        <condition>New</condition>
+        <discount>50.0</discount>
+    </soundSystem>
+	<soundSystem id="sonyHTSoundbar">
+        <name>Sony HT 350W Channel Soundbar System</name>
+        <price>298.99</price>
+        <image>sonyHTSoundbar.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>20.0</discount>
+    </soundSystem>
+</SoundSystemCatalog>
+
+<VoiceAssistantCatalog>
+    <voiceAssistant id="echo3rdgen">
+        <name>Amazon Echo 3rd Generation</name>
+        <price>99.99</price>
+        <image>echo3rdgen.jpg</image>
+        <manufacturer>Amazon</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </voiceAssistant>
+    <voiceAssistant id="echoPlus">
+        <name>Amazon Echo Plus</name>
+        <price>199.99</price>
+        <image>echoPlus.jpg</image>
+        <manufacturer>Amazon</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </voiceAssistant>
+	<voiceAssistant id="echoShow">
+        <name>Amazon Echo Show</name>
+        <price>104.99</price>
+        <image>echoShow.jpg</image>
+        <manufacturer>Amazon</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </voiceAssistant>
+	<voiceAssistant id="googleHomeMini">
+        <name>Google Home Mini</name>
+        <price>39.99</price>
+        <image>googleHomeMini.jpg</image>
+        <manufacturer>Google</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </voiceAssistant>
+	<voiceAssistant id="googleHomeSmart">
+        <name>Google Home Smart</name>
+        <price>59.99</price>
+        <image>googleHomeSmart.jpeg</image>
+        <manufacturer>Google</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </voiceAssistant>
+</VoiceAssistantCatalog>
+
+<WearableTechCatalog>
+    <wearableTech id="sonyHeadphones">
+        <name>Sony Wireless Headphones with Noise Cancelation</name>
+        <price>99.99</price>
+        <image>sonyHeadphones.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </wearableTech>
+    <wearableTech id="fitBitCharge3">
+        <name>Fitbit Charge 3</name>
+        <price>199.99</price>
+        <image>fitBitCharge3.jpeg</image>
+        <manufacturer>FitBit</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </wearableTech>
+	<wearableTech id="appleWatch">
+        <name>Apple Watch</name>
+        <price>299.99</price>
+        <image>appleWatch.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </wearableTech>
+	<wearableTech id="samsungVR">
+        <name>Samsung Gear Virtual Reality Headset</name>
+        <price>29.99</price>
+        <image>samsungVR.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </wearableTech>
+	<wearableTech id="samsungPetTracker">
+        <name>Samsung Pet Tracker</name>
+        <price>39.99</price>
+        <image>samsungPetTracker.jpg</image>
+        <manufacturer>Samung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </wearableTech>
+</WearableTechCatalog>
+
+<AccessoryCatalog>
+
+    <accessory id="appleAdapter">
+        <name>Apple USB Power Adapter White</name>
+        <price>19.99</price>
+        <image>appleAdapter.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>0.0</discount>
+     </accessory>
+
+    <accessory id="applePowerCord">
+        <name>Data Sync Cable Cord for iPhone/iPad/iPod</name>
+        <price>4.99</price>
+        <image>applePowerCord.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>0.0</discount>
+     </accessory>
+	 
+	 <accessory id="appleAirPods">
+        <name>Apple Airpods</name>
+        <price>129.99</price>
+        <image>appleAirPods.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>0.0</discount>
+     </accessory>
+
+    <accessory id="samsungCharger">
+        <name>Samsung - Adaptive fast Charger</name>
+        <price>29.99</price>
+        <image>samsungCharger.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>0.0</discount>
+     </accessory>
+	 
+	 <accessory id="s20backcover">
+        <name>Back cover for Samsung Galaxy S20</name>
+        <price>27.99</price>
+        <image>s20backcover.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>0.0</discount>
+     </accessory>
+	 
+	<accessory id="motoGcover">
+        <name>Moto G Power Case</name>
+        <price>6.99</price>
+        <image>motoGcover.jpg</image>
+        <manufacturer>Motorola</manufacturer>
+        <condition>New</condition>
+        <discount>0.0</discount>
+    </accessory>
+
+    <accessory id="onePlusDash">
+        <name>One Plus Dash Charger</name>
+        <price>18.99</price>
+        <image>onePlusDash.jpg</image>
+        <manufacturer>OnePlus</manufacturer>
+        <condition>New</condition>
+        <discount>0.0</discount>
+     </accessory>
+	 
+	<accessory id="onePlusEarBuds">
+        <name>OnePlus Wireless Earbuds</name>
+        <price>79.99</price>
+        <image>onePlusEarBuds.jpg</image>
+        <manufacturer>OnePlus</manufacturer>
+        <condition>New</condition>
+        <discount>0.0</discount>
+    </accessory>
+	 
+	<accessory id="nokiaCover">
+        <name>Nokia 7.1 Protector Case</name>
+        <price>99.99</price>
+        <image>nokiaCover.jpeg</image>
+        <manufacturer>OnePlus</manufacturer>
+        <condition>New</condition>
+        <discount>0.0</discount>
+    </accessory>
+</AccessoryCatalog>
+
+
+
+</ProductCatalog>
